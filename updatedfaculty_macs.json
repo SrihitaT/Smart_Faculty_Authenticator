@@ -1,0 +1,18 @@
+{
+  "faculty": {
+    "C2:2C:06:04:76:DC": "Test_Faculty"
+  },
+  "workspaces": {
+    "Test_Faculty": {
+      "linways_url": "https://linways.com/login",
+      "whatsapp_url": "https://web.whatsapp.com",
+      "local_folder": "C:\\Users\\SRIHITA\\Documents"
+    }
+  },
+  "settings": {
+    "rssi_threshold": -85,
+    "lab_name": "AI Lab",
+    "faculty_timeout": 15,
+    "voice_password": "authorize"
+  }
+}
