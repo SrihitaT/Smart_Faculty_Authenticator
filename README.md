@@ -31,8 +31,9 @@ The system eliminates the "Single Point of Failure" found in traditional passwor
 ├── updatedfaculty_macs.json # Central Configuration (MAC addresses, Folders, Passwords)
 └── README.md
 
-##  Tech Stack
--AI/ML:** DeepFace (VGG-Face), OpenCV, RetinaFace
+## Tech Stack
+
+**AI/ML:** DeepFace (VGG-Face), OpenCV, RetinaFace
 
 Voice/Audio: Google Speech Recognition, gTTS, Pygame Mixer
 
