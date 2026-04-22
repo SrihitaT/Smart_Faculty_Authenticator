@@ -23,11 +23,11 @@ DB_PATH = "faculty_db"
 FACULTY_JSON = "updatedfaculty_macs.json"
 SCAN_WINDOW_SECONDS = 15 
 SECRET_PASSWORD = "activate" 
-TELEGRAM_TOKEN = "8147566009:AAElm-QC1Tfo9z48arviKok_9lCufP7zT_w"
-CHAT_ID = "5790290228"
+TELEGRAM_TOKEN = "PASTE_YOUR_TELEGRAM_TOKEN"
+CHAT_ID = "PASTE_YOUR_CHAT_ID"
 
 # Drive Paths
-BASE_DOCS = r"C:\\Users\\SRIHITA\\Documents"
+BASE_DOCS = r"C:\\YOUR_BASE_DOCS"
 STUDENTS_DRIVE = os.path.join(BASE_DOCS, "Students_Drive")
 
 mixer.init()
